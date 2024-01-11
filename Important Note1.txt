@@ -1,0 +1,14 @@
+Hiii this is Divesh Jadhwani Project
+
+Module 1 st 
+Delect fall peaple using Image processing and Machine learning
+run GUI_Master.py
+
+Module 2nd
+Pill Reminder System for every 1 minute
+run pill_reminder.py
+
+
+Module 3 rd
+Switch press and help me audio
+run Switch.py
